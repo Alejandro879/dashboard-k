@@ -231,9 +231,10 @@ article.grafica {
 
 #speedChart{
     height: auto!important;
-    width: 100%!important;
+    width: 90%!important;
     top: calc(100% - 45vh);
     position: relative;
+    margin: auto;
 }
 
 article.contenedor-caja-grafica {
